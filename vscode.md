@@ -9,6 +9,7 @@
 - Live Server
 - Prettier Code Formatter
 - VS-Code Icons
+- 
 
 ### Theme
 
